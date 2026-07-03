@@ -2,7 +2,7 @@
 My Data Analytics portfolio | Excel | SQL | Power BI | Python
 # Sales Dashboard
 ## Dashboard Preview
-! [Dashboard] (./Sales-Dashboard.png.png)
+![Dashboard](./Sales-Dashboard.png.png)
 ## Project Overview
 This interactive Sales Dashboard was created using Microsoft Excel.
 ## Tools Used
